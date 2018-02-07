@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Willia.MK Original Story 5.0%.unity
+  isLoaded: 1
+  isActive: 1
